@@ -37,6 +37,3 @@ error_log
 *:Zone.Identifier
 /.env
 
-
-# Ignore backup files
-*.backup
